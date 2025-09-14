@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">Tech enthusiast from United Kingdom | Proxmox, Docker, and beyond</h3>
+<h1 align="left">Hi 👋, I'm Andrey</h1>
+<h3 align="left">Tech enthusiast from United Kingdom | Proxmox, Docker, and beyond</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=queazified&label=Profile%20views&color=0e75b6&style=flat" alt="queazified" /> </p>
 
