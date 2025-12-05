@@ -9,7 +9,7 @@
 
 <h3 align="left">🧰 Tech Stack</h3>
 <p align="left">
-  <a href="https://github.com/Queazified/"><img src="https://skillicons.dev/icons?i=linux,html,css,js,java,git,github,vscode" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=linux,html,css,js,java,git,github,vscode" /></a>
 </p>
 
 <h3 align="left">🎵 Fun Facts</h3>
